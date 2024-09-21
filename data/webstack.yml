@@ -4,7 +4,7 @@
   icon: fa-star
   links: 
     - title: bilibili
-      qrcode: 
+      qrcode: images/qrcodes/b站二维码.png
       logo: 
       url: https://www.bilibili.com/
       description: 国内不赚钱的视频平台
